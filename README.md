@@ -18,30 +18,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/diegooverride/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=diegooverride&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/diegooverride/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegooverride&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![Snake animation](https://github.com/diegooverride/diegooverride/blob/output/github-contribution-grid-snake.svg)
-
 ![snake gif](https://github.com/diegooverride/diegooverride/blob/output/github-contribution-grid-snake.gif)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/diegooverride/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/diegooverride/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/diegooverride/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 ### Contatos:
 
