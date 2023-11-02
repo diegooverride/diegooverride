@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 | <a href="https://github.com/diegooverride/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=diegooverride&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/diegooverride/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegooverride&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![snake gif](https://github.com/diegooverride/diegooverride/blob/output/github-contribution-grid-snake.gif)
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
